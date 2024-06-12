@@ -1,4 +1,4 @@
-##Задание 1: 
+# Задание 1: 
 
 docker pull mysql 
 docker pull redis 
@@ -36,5 +36,5 @@ docker stop redis - останавливаем redis
 docker rm mysql - удаляем mysql
 docker rm redis - удаляем redis
 
-##Задание 2:
+# Задание 2:
 docker-compose.yml
