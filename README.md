@@ -1,5 +1,6 @@
 # Задание 1: 
 
+
 docker pull mysql 
 docker pull redis 
 
